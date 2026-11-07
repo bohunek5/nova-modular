@@ -1,6 +1,6 @@
 {
   "format": "nova-public-build-v1",
-  "builtAt": "2026-11-06T23:41:30.905Z",
+  "builtAt": "2026-11-07T01:05:25.438Z",
   "base": "/nova-modular/",
   "name": "NOVA MODULAR",
   "projectId": "nova-modular",
@@ -29,12 +29,23 @@
     "/kontakt",
     "/prywatnosc",
     "/warunki",
-    "/studio"
+    "/studio",
+    "/projekty",
+    "/projekty/dom-z-ogrodem",
+    "/projekty/hala-z-biurem",
+    "/projekty/magazyn-logistyczny",
+    "/projekty/kampus",
+    "/poradnik",
+    "/poradnik/brief-inwestycji",
+    "/poradnik/plan-dzialki",
+    "/poradnik/materialy-i-swiatlo",
+    "/poradnik/budzet-i-zakres",
+    "/pracownia"
   ],
-  "privateFileCount": 13,
-  "sourceFileCount": 56,
-  "publicAssetCount": 20,
-  "appSha256": "d15c77ccc6c97866dc0af568e33cd1b1c8179ecd757340563aeaad3485a1e511",
-  "sourceSha256": "1efa09412793e0771081951b9545152c2b6039e66ae6965cbd0e1dfa741d075e",
+  "privateFileCount": 25,
+  "sourceFileCount": 108,
+  "publicAssetCount": 34,
+  "appSha256": "e7f76b4d2fdddeb2ff1696d57079279d15e9b12b7a62d57cc0a2d7e40f7f04cf",
+  "sourceSha256": "5a984553fa0fc637d16a052b09a4e431ad99810b542f98c1142c4e4cbf0feccd",
   "sourceEncoding": "AES-256-GCM / PBKDF2-SHA-256 600000 / gzip JSON file map"
 }

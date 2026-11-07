@@ -1,0 +1,380 @@
+{
+  "createdAt": "2026-11-07T00:28:43.631Z",
+  "origin": "Original procedural WebGL render from js/scene.js; no external photographs or textures.",
+  "entries": [
+    {
+      "path": "models/home-40.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "home-40",
+          "facade": "graphite",
+          "roof": "flat",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/home-70.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "home-70",
+          "facade": "graphite",
+          "roof": "flat",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/home-110.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "home-110",
+          "facade": "graphite",
+          "roof": "flat",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/hall-120.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "hall-120",
+          "facade": "steel",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/hall-240.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "hall-240",
+          "facade": "steel",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/hall-480.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "hall-480",
+          "facade": "steel",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/warehouse-200.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "warehouse-200",
+          "facade": "steel",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/warehouse-600.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "warehouse-600",
+          "facade": "steel",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "models/warehouse-1200.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "warehouse-1200",
+          "facade": "steel",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "projects/dom-z-ogrodem.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "home-70",
+          "facade": "wood",
+          "roof": "flat",
+          "glazing": "panorama",
+          "insulation": "standard",
+          "terrace": true,
+          "canopy": false,
+          "office": false,
+          "solar": false,
+          "pergola": true,
+          "winterGarden": true,
+          "doors": 1,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "projects/hala-z-biurem.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "hall-240",
+          "facade": "graphite",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "plus",
+          "terrace": false,
+          "canopy": true,
+          "office": true,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 2,
+          "docks": 0,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "projects/magazyn-logistyczny.png",
+      "project": {
+        "type": "building",
+        "configuration": {
+          "version": 1,
+          "modelId": "warehouse-600",
+          "facade": "steel",
+          "roof": "gable",
+          "glazing": "standard",
+          "insulation": "standard",
+          "terrace": false,
+          "canopy": true,
+          "office": true,
+          "solar": false,
+          "pergola": false,
+          "winterGarden": false,
+          "doors": 2,
+          "docks": 2,
+          "night": false,
+          "exploded": false
+        }
+      }
+    },
+    {
+      "path": "projects/kampus.png",
+      "project": {
+        "type": "site",
+        "site": {
+          "version": 1,
+          "width": 60,
+          "depth": 60,
+          "night": false,
+          "items": [
+            {
+              "id": "residence",
+              "configuration": {
+                "version": 1,
+                "modelId": "home-70",
+                "facade": "wood",
+                "roof": "flat",
+                "glazing": "standard",
+                "insulation": "standard",
+                "terrace": false,
+                "canopy": false,
+                "office": false,
+                "solar": false,
+                "pergola": true,
+                "winterGarden": true,
+                "doors": 1,
+                "docks": 0,
+                "night": false,
+                "exploded": false
+              },
+              "x": -18,
+              "z": 17,
+              "rotation": 0
+            },
+            {
+              "id": "workshop",
+              "configuration": {
+                "version": 1,
+                "modelId": "hall-240",
+                "facade": "steel",
+                "roof": "gable",
+                "glazing": "standard",
+                "insulation": "standard",
+                "terrace": false,
+                "canopy": true,
+                "office": true,
+                "solar": false,
+                "pergola": false,
+                "winterGarden": false,
+                "doors": 2,
+                "docks": 0,
+                "night": false,
+                "exploded": false
+              },
+              "x": 10,
+              "z": 16,
+              "rotation": 0
+            },
+            {
+              "id": "storage",
+              "configuration": {
+                "version": 1,
+                "modelId": "warehouse-200",
+                "facade": "steel",
+                "roof": "gable",
+                "glazing": "standard",
+                "insulation": "standard",
+                "terrace": false,
+                "canopy": false,
+                "office": false,
+                "solar": false,
+                "pergola": false,
+                "winterGarden": false,
+                "doors": 2,
+                "docks": 1,
+                "night": false,
+                "exploded": false
+              },
+              "x": 10,
+              "z": -14,
+              "rotation": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
